@@ -41,17 +41,6 @@ The dataset consists of 14 attributes, including:
 ## Acknowledgments
 Special thanks to **Prakash Sir** for his guidance and insights throughout this project.
 
-## How to Use This Repository
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/Darshanikant/SpaceShip_Predictive_Analysis.git
-   cd SpaceShip_Predictive_Analysis
-   ```
-2. Install dependencies:
-   ```bash
-   pip install -r requirements.txt
-   ```
-3. Run the Jupyter Notebook to explore and analyze the dataset.
 
 ## Contributions
 Contributions and discussions are welcome! Feel free to open issues or pull requests to improve the analysis.
