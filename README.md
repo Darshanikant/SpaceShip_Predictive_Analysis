@@ -44,7 +44,7 @@ Special thanks to **Prakash Sir** for his guidance and insights throughout this 
 ## How to Use This Repository
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/SpaceShip_Predictive_Analysis.git
+   git clone https://github.com/Darshanikant/SpaceShip_Predictive_Analysis.git
    cd SpaceShip_Predictive_Analysis
    ```
 2. Install dependencies:
